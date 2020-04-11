@@ -7,4 +7,4 @@
 3. There are some optional effects that can be enabled from the CSS file
 
 
-## Orignal Codepen and inspiration: https://codepen.io/robin-dela/pen/jVddbq
+#### Orignal Codepen and inspiration: https://codepen.io/robin-dela/pen/jVddbq
