@@ -1,4 +1,4 @@
-#CSS and JS based 3D card hover effect
+CSS and JS based 3D card hover effect
 
 Instructions:
 1. All the files are linked so all you'd have to do is clone the folder and you're good to go
